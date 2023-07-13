@@ -6,7 +6,7 @@
 !.gitignore
 !.vscode/*
 !./LICENSE
-!README.MD
+!./README.MD
 !metas/*.meta
 !mods/*/meta.ini
 !profiles/*/*
