@@ -1,0 +1,22 @@
+Fallout - Invalidation.bsa
+Fallout - Textures.bsa
+Fallout - Textures2.bsa
+Fallout - Meshes.bsa
+Fallout - Voices1.bsa
+Fallout - Sound.bsa
+Fallout - Misc.bsa
+Update.bsa
+DeadMoney - Main.bsa
+DeadMoney - Sounds.bsa
+HonestHearts - Main.bsa
+HonestHearts - Sounds.bsa
+OldWorldBlues - Main.bsa
+OldWorldBlues - Sounds.bsa
+LonesomeRoad - Main.bsa
+LonesomeRoad - Sounds.bsa
+GunRunnersArsenal - Main.bsa
+GunRunnersArsenal - Sounds.bsa
+ClassicPack - Main.bsa
+MercenaryPack - Main.bsa
+TribalPack - Main.bsa
+CaravanPack - Main.bsa
