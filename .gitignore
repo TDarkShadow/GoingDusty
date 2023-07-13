@@ -10,5 +10,6 @@
 !metas/*.meta
 !mods/*/meta.ini
 !profiles/*/*
-!Radiant Mojave.compiler_settings
-!Radiant Mojave.wabbajack.meta.json
+!GoingDusty.compiler_settings
+!GoingDusty.wabbajack.meta.json
+!57927-1-1424796519.webp
