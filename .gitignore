@@ -10,6 +10,6 @@
 !metas/*.meta
 !mods/*/meta.ini
 !profiles/*/*
-!GoingDusty.compiler_settings
-!GoingDusty.wabbajack.meta.json
+!Going Dusty.compiler_settings
+!Going Dusty.wabbajack.meta.json
 !57927-1-1424796519.webp
